@@ -1,7 +1,7 @@
 ---
 name: test-strategy
 version: 1.0.0
-description: 测试策略分层。定义测试金字塔比例、每类测试的编写规范、契约测试/混沌测试/快照测试模板。新模块开发或测试覆盖率不足时触发。Triggered when writing tests, improving coverage, or user says "测试策略/test strategy/test pyramid/契约测试/chaos test".
+description: 测试策略分层。定义测试金字塔比例、每类测试的编写规范、契约测试/混沌测试/快照测试模板。新模块开发或测试覆盖率不足时触发。Triggered when writing tests, improving coverage, designing test architecture, or when user says "测试策略/test strategy/test pyramid/契约测试/chaos test/覆盖率/coverage/写测试/单元测试/unit test/集成测试/integration test/测试模板".
 ---
 
 # Test Strategy

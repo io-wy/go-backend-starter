@@ -1,3 +1,9 @@
+---
+name: prompt-engineering
+version: 1.0.0
+description: Prompt Engineering 专家。设计、优化、评估 LLM Prompt，包括 prompt 模板、few-shot、CoT、防御 prompt 注入。Triggered when designing prompts, optimizing prompt templates, evaluating LLM behavior, prompt injection defense, or user says "prompt/prompt engineering/prompt 优化/prompt 设计/提示词/提示工程/few-shot".
+---
+
 # Prompt Engineering
 
 ## 角色定义

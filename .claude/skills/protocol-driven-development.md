@@ -1,7 +1,7 @@
 ---
 name: protocol-driven-development
 version: 1.0.0
-description: 协议驱动开发。写任何协议相关代码（API 契约、数据格式、通信协议、接口兼容层）时必须先找到并读取参考文档，逐字段对照实现，写完后与参考文档交叉验证，并产出覆盖完整字段和边界条件的测试文件。防止协议漂移。
+description: 协议驱动开发。写任何协议相关代码（API 契约、数据格式、通信协议、接口兼容层）时必须先找到并读取参考文档，逐字段对照实现，写完后与参考文档交叉验证，并产出覆盖完整字段和边界条件的测试文件。防止协议漂移。Triggered when implementing protocol/API/data-format code, interface compatibility layers, or when user says "协议开发/protocol/接口对接/API 契约/数据格式/通信协议/对照文档/协议漂移/protocol driven".
 ---
 
 # Protocol Driven Development

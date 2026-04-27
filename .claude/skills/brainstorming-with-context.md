@@ -1,7 +1,7 @@
 ---
 name: brainstorming-with-context
 version: 1.1.0
-description: 结构化需求澄清。You MUST use this before any new feature, bug fix, refactoring, or interface change — explores codebase, clarifies requirements, then produces design options before implementation.
+description: 结构化需求澄清与方案设计。You MUST use this before any new feature, bug fix, refactoring, or interface change — explores codebase first, clarifies requirements, then produces design options with trade-offs before implementation. Triggered when user says "帮我做/实现/修/加功能/new feature/bug fix/refactor".
 ---
 
 # Brainstorming with Context

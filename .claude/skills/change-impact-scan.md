@@ -1,7 +1,7 @@
 ---
 name: change-impact-scan
 version: 1.1.0
-description: 变更影响扫描。修改接口/数据模型/配置/公共模块时，自动 Grep 所有调用点和关联文件，防止改不全。Triggered when modifying function signatures, interfaces, data models, config structs, or shared modules.
+description: 变更影响扫描。修改接口/数据模型/配置/公共模块时，自动 Grep 所有调用点和关联文件，防止改不全。Triggered when modifying function signatures, interfaces, data models, config structs, or shared modules, or when user says "改影响/影响范围/改不全/impact scan/调用点/影响分析/change impact/改接口/改模型".
 ---
 
 # Change Impact Scan

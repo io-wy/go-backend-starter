@@ -1,8 +1,8 @@
 ---
 name: spec
-description: Create, resume, escalate, drop, or list specs under `.kiro/specs/`. Auto-detects complexity level (L1 Patch / L2 Feature / L3 Epic). The single entry point for all spec work.
+version: 1.0.0
+description: 规格管理入口。创建、恢复、升级、放弃 specs，自动检测复杂度级别（L1 Patch / L2 Feature / L3 Epic），L3 拆分为 requirements→design→tasks 三文件。Triggered when starting a new feature spec, managing existing specs, or user says "写规格/spec/new spec/创建规格/spec list".
 argument-hint: <feature-or-slug> [--level L1|L2|L3] [--drop] [--list]
-disable-model-invocation: true
 ---
 # Spec — Unified Entry Point
 

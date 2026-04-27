@@ -1,8 +1,8 @@
 ---
 name: spec-check
-description: Inspect, lint, and review a spec under `.kiro/specs/<slug>/`. Combines status check, structural lint, and quality review into one command. Use on demand, not as a mandatory gate.
+version: 1.0.0
+description: 规格校验。对 `.kiro/specs/` 下的 spec 执行状态检查、结构 lint（S-01~S-14）、质量 review（可追溯性/完整性/适配度），输出 clean/issues/blocked 判定。按需使用，非强制门禁。Triggered when reviewing a spec's quality, or user says "check spec/spec-check/检查规格/规格校验/lint spec".
 argument-hint: <feature-slug> [--lint|--review|--status]
-disable-model-invocation: true
 ---
 # Spec Check — Inspect, Lint, Review
 

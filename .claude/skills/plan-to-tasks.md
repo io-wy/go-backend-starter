@@ -1,7 +1,7 @@
 ---
 name: plan-to-tasks
 version: 1.1.0
-description: 将设计方案拆分为可执行 Task 列表。每个 Task 包含精确文件路径、变更描述、验证标准和阻塞关系。Triggered after brainstorming is confirmed, or when user says "拆任务/出计划/make a plan".
+description: 将设计方案拆分为可执行 Task 列表。每个 Task 包含 7 要素（文件路径、变更描述、验证标准、阻塞关系、复杂度、关联指标、动词+名词标题）。Triggered after brainstorming is confirmed, or when user says "拆任务/出计划/make a plan/break down/split tasks/create task list/规划任务".
 ---
 
 # Plan to Tasks

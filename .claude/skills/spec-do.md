@@ -1,8 +1,8 @@
 ---
 name: spec-do
-description: Execute implementation from a spec under `.kiro/specs/<slug>/`. Picks the next unfinished task, implements it, and writes evidence back to the spec. The only skill that writes code.
+version: 1.0.0
+description: 规格实现。读取 `.kiro/specs/` 下的 spec，选取下一个未完成任务，实现代码并写回 Evidence。支持 L1/L2/L3 三级，自动检查前置条件、偏差记录、状态流转。Triggered when implementing from a spec, or user says "spec-do/实现规格/do spec/run spec/跑任务".
 argument-hint: <feature-slug> [T-*|task description|"next"]
-disable-model-invocation: true
 ---
 # Spec Do — Implement and Write Back
 

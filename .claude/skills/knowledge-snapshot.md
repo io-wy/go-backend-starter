@@ -1,7 +1,7 @@
 ---
 name: knowledge-snapshot
 version: 1.1.0
-description: 项目知识查阅指引。遇到不确定的实现细节时，按四层上下文体系查找，禁止凭训练记忆编造。Read docs/ first, then external sources.
+description: 项目知识查阅优先级链。遇到不确定的 API 签名、框架用法、依赖版本、Go 兼容性时，按 docs/→源码→go.mod→Context7→WebSearch→告知不知道的顺序查证。禁止凭训练记忆编造。Triggered when uncertain about implementation details, API signatures, framework behavior, or when user says "查一下/look up/check docs/verify/不确定/查文档".
 ---
 
 # Knowledge Snapshot

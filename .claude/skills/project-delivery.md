@@ -1,7 +1,7 @@
 ---
 name: project-delivery
 version: 1.1.0
-description: 项目部署、生产、交付全流程规范。CI/CD、Docker、构建、发布、灰度、回滚、监控、告警、运维手册。新项目启动时按本 Skill 建立交付基线，已有项目按本 Skill 补齐缺口。Triggered when setting up deployment, CI, Docker, monitoring, runbook, or production readiness.
+description: 项目部署、生产、交付全流程规范。CI/CD、Docker、构建、发布、灰度、回滚、监控、告警、运维手册。新项目启动时按本 Skill 建立交付基线，已有项目按本 Skill 补齐缺口。Triggered when setting up deployment, CI, Docker, monitoring, runbook, or production readiness, or when user says "部署/deploy/上线/发布/release/CI/CD/Docker/灰度/canary/回滚/rollback/运维/runbook/生产环境/production/交付/delivery".
 ---
 
 # Project Delivery — 部署、生产、交付全流程规范

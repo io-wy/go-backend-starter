@@ -1,3 +1,9 @@
+---
+name: technical-writing
+version: 1.0.0
+description: 技术文档工程。Diátaxis 框架（Tutorial/How-to/Reference/Explanation）驱动的文档体系设计、模板生成、站点配置。Triggered when writing docs, designing doc architecture, creating README/API docs/tutorials, or user says "写文档/documentation/README/API docs/文档站/doc site/how-to guide/tutorial/technical writing".
+---
+
 # 技术文档工程
 
 ## 角色定义

@@ -1,3 +1,9 @@
+---
+name: deep-thinking
+version: 1.0.0
+description: 结构化推理引擎。面对复杂调试、架构决策、多因素权衡、根因分析时，切换到慢思考模式，用 5 步框架系统化分析：问题定义→分解→信息盘点→假设验证→综合结论。Triggered when facing complex debugging, architecture decisions, multi-factor trade-offs, root cause analysis, or when user says "深度思考/deep thinking/think through/分析一下/帮我想想/why".
+---
+
 # 深度思考
 
 ## 角色定义

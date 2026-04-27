@@ -1,3 +1,9 @@
+---
+name: devex-tooling
+version: 1.0.0
+description: 开发者体验与工具链工程。评估、设计、集成开发工具链——Lint/Format/Monorepo/CLI/Git Hooks/Dev Container。支持 Node/Python/Go/Rust 全栈。Triggered when setting up toolchain, configuring lint/format/build, creating monorepo, developing CLI tools, setting up dev containers, or user says "工具链/toolchain/DX/开发者体验/lint/monorepo/CLI".
+---
+
 # 开发者体验与工具链
 
 ## 角色定义
